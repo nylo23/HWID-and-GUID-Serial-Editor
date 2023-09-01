@@ -5,4 +5,5 @@ https://github.com/Lufzys/SimpleHWIDSpoofer/tree/main
 
 Using this resource as a base for my own HWID Editor.
 
-![simpleHwidSpoofer]([https://raw.githubusercontent.com/Lufzys/SimpleHWIDSpoofer/main/simpleHwidSpoofer.PNG?raw=true)
+![simpleHwidSpoofer](https://github.com/nylo23/HWID-and-GUID-Serial-Editor/assets/128028370/9c2a0867-4d00-4602-9d68-d8dc59f945bd)
+
